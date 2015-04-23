@@ -14,7 +14,7 @@ study DesignCode https://designcode.io/
 * <del>Designing In Storyboard</del>
 * <del>Connecting Storyboard and Code</del>
 * <del>Learning Swift As a Designer</del>
-* **Prototyping Animations With Swift**  `19：00`
+* **Prototyping Animations With Swift**  `29：20`
 * Build a Swift App Part 2
 * Table View and Navigation Controllers
 * Table View Class and Content
