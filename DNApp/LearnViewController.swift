@@ -10,6 +10,7 @@ import UIKit
 
 class LearnViewController: UIViewController {
 
+    
     @IBOutlet weak var dialogView: DesignableView!
     @IBOutlet weak var bookImageView: SpringImageView!
     
